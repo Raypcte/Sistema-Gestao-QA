@@ -8,7 +8,7 @@
     "dev": "nodemon index",
     "test": "jest --coverage"
   },
-  "author": "Laise Farias France",
+  "author": "Rayane Pacote",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
